@@ -18,6 +18,7 @@ def print_hi(name):
     if n:
        name = n
     print(f'Hi, {name}')
+    # print(f'Hi, {name}')
 def tipos():
     i = 10
     s = "10"
